@@ -1,7 +1,5 @@
 # Learn2
 
-![Learn2](screenshot.jpg)
-
 Learn2 is the default [Grav Learn](http://learn.getgrav.org) theme. Simple, fast and modern.
 
 # Installation
